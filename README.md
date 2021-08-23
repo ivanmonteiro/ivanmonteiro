@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-My name is Ivan Monteiro Cantalice and I'm a Software Engineer living in Brazil.
+My name is Ivan Monteiro Cantalice and I'm a Programmer living in Brazil.
+
+Contact-me on:
+<!--- [LinkedIn](https://www.linkedin.com/in/profile)-->
+- 📫 How to reach me: ivanmonteiroc@gmail.com
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanmonteiro" alt="ivanmonteiro" /> </p>
+
+[![Ivan Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmonteiro)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **ivanmonteiro/ivanmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
