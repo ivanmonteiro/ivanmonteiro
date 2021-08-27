@@ -7,7 +7,7 @@ My name is Ivan Monteiro Cantalice and I'm a Programmer living in Brazil.
 
 
 
-[![Ivan Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmonteiro)](https://github.com/anuraghazra/github-readme-stats)
+[![Ivan Monteiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivanmonteiro&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanmonteiro&hide=python,c%2B%2B,Jupyter%20Notebook,html,Starlark)](https://github.com/anuraghazra/github-readme-stats)
 
