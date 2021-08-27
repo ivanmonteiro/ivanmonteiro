@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ivan Monteiro Cantalice and I'm a Programmer living in Brazil.
+My name is Ivan Monteiro Cantalice and I'm a software developer living in Brazil. I'm specialized in web development and love tools like dotnet core and angular.
 
 <!--- [LinkedIn](https://www.linkedin.com/in/profile)-->
 - 📫 How to reach me: ivanmonteiroc@gmail.com
