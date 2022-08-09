@@ -6,9 +6,7 @@
 
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic!
 
-<!--- [LinkedIn](https://www.linkedin.com/in/profile)-->
-- 📫 How to reach me: ivanmonteiroc at gmail dot com
-[email](mailto:ivanmonteiroc@gmail.com)
+📫 How to reach me: [email](mailto:ivanmonteiroc@gmail.com) - [LinkedIn](https://www.linkedin.com/in/ivan-monteiro/)
 
 
 
