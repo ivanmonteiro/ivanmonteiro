@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Ivan, welcome to my GitHub.
 
-My name is Ivan Monteiro Cantalice and I'm a software developer living in Brazil. I'm specialized in web development and love tools like dotnet core and angular.
+---
+
+💻 I'm a Full-stack developer with a bachelor's degree in Information Systems and postgrad studies in Technology and Innovation.
+
+💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic!
 
 <!--- [LinkedIn](https://www.linkedin.com/in/profile)-->
 - 📫 How to reach me: ivanmonteiroc at gmail dot com
+[email](mailto:ivanmonteiroc@gmail.com)
 
 
 
