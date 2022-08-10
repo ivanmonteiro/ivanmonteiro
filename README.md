@@ -1,7 +1,5 @@
 ### Hi there! I'm Ivan, welcome to my GitHub.
-
 ---
-
 ### About Me 🚀
 
 💻 I'm a Full-stack developer with a bachelor's degree in Information Systems and graduate studies in Technology and Innovation.
@@ -9,6 +7,9 @@
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic!
 
 📫 How to reach me: [email](mailto:ivanmonteiroc@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ivan-monteiro/)
+
+<br/>
+<hr />
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanmonteiro&count_private=true" />
